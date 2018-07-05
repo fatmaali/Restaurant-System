@@ -1,0 +1,52 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#Marquee1
+{
+   background-color: #EEEEEE;
+   border: 1px #C0C0C0 solid;
+   text-align: center;
+}
+#Marquee1:hover
+{
+   background-color: #FFFFFF;
+   -webkit-transition: background-color 500ms linear 0ms;
+   -moz-transition: background-color 500ms linear 0ms;
+   -ms-transition: background-color 500ms linear 0ms;
+   transition: background-color 500ms linear 0ms;
+}
+#Button1
+{
+   border: 1px #A9A9A9 solid;
+   background-color: #F0F0F0;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 20px;
+}
+#Button2
+{
+   border: 1px #A9A9A9 solid;
+   background-color: #F0F0F0;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 19px;
+}
+#Button3
+{
+   border: 1px #A9A9A9 solid;
+   background-color: #F0F0F0;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 19px;
+}

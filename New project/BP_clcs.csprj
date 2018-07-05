@@ -1,0 +1,444 @@
+<codestructure version="5.13">
+<phptree>
+<treenode node="../Controller/QueryBuilder.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\Model\LoginAPI.php;f14;2;44;2;;C:\xampp\htdocs\dashboard\BP\Model\EditProfileAPI.php;f14;2;44;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="..\Controller\QueryBuilder.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\Model\ChangePassModel.php;f14;2;44;2;;C:\xampp\htdocs\dashboard\BP\View\foodedit.php;f15;3;45;3;;C:\xampp\htdocs\dashboard\BP\View\fooddetails.php;f15;2;45;2;;C:\xampp\htdocs\dashboard\BP\Model\CreateMenuModel.php;f14;3;44;3;;C:\xampp\htdocs\dashboard\BP\View\profile.php;f14;3;44;3;;C:\xampp\htdocs\dashboard\BP\Model\EditProfileModel.php;f14;2;44;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="/home/teq/public_html/BP/Controller/QueryBuilder.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\Model\Codelobster0.php;f14;1;66;1;;C:\xampp\htdocs\dashboard\BP\Model\AddServiceAPI.php;f14;1;66;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="..\Controller\QueryBuilder.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\Model\ConfirmOrder.php;f14;4;44;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="..\Controller\QueryBuilder.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\Model\LoginModel.php;f14;4;44;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="..\Controller\QueryBuilder.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\Model\DeleteItemModel.php;f14;3;44;3;;C:\xampp\htdocs\dashboard\BP\Model\EditItemModel.php;f14;2;44;2;;C:\xampp\htdocs\dashboard\BP\Model\SpecialOrderModel.php;f14;2;44;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="..\Controller\QueryBuilder.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\Model\SignupModel.php;f14;1;44;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="..\Controller\QueryBuilder.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\Model\OrderModel.php;f14;4;44;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="..\Controller\QueryBuilder.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\Model\CreateMenu.php;f14;3;44;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="./course.class.php;PHP:PHP Include;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.6005\student.php;f20;2;38;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="./database.php;PHP:PHP Include;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.3846\course.class.php;f14;2;28;2;;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.4253\course.php;f22;6;36;6;;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.5042\index.php;f22;6;36;6;;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.5423\sign-up.php;f22;6;36;6;;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.5679\student.class.php;f14;2;28;2;;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.6005\student.php;f20;0;34;0;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="./student.class.php;PHP:PHP Include;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.5042\index.php;f22;9;41;9;;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.5423\sign-up.php;f22;9;41;9;;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.6005\student.php;f20;1;39;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="Client.php;PHP:PHP Include;P:\Busness Park\Task1\Maryam\BP\QueryBuilder.php;f15;3;25;3;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f15;7;25;7;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f15;7;25;7;;;;vpos;;v;;r;;d-1,-1;;b1,0;;m">
+</treenode>
+<treenode node="createmenu.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\View\include\Template\header.php;f21;45;35;45;;C:\xampp\htdocs\dashboard\BP\View\include\Template\profileheader.php;f20;44;34;44;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DBConnection.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\Controller\Codelobster0.php;f14;1;30;1;;P:\Busness Park\Task1\Maryam\BP\QueryBuilder.php;f15;1;31;1;;C:\xampp\htdocs\dashboard\BP\Controller\ItemClass.php;f14;1;30;1;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f14;1;30;1;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f14;1;30;1;;C:\xampp\htdocs\dashboard\BP\Controller\OrderClass.php;f14;1;30;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="fooddetails.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\View\include\Template\header.php;f17;172;32;172;;C:\xampp\htdocs\dashboard\BP\View\include\Template\profileheader.php;f16;276;31;276;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="foodedit.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\View\include\Template\profileheader.php;f17;272;29;272;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="include/Template/footer.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\View\Homepage.php;f15;517;42;517;;C:\xampp\htdocs\dashboard\BP\View\food.php;f15;258;42;258;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="include/Template/header.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\View\Homepage.php;f15;2;42;2;;C:\xampp\htdocs\dashboard\BP\View\food.php;f15;1;42;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="include/Template/profileheader.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\View\profile.php;f16;2;50;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ItemClass.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f14;5;27;5;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f14;5;27;5;;;;vpos;;v;;r;;d-1,-1;;b1,0;;m">
+</treenode>
+<treenode node="Menu.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f14;12;22;12;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f14;12;22;12;;;;vpos;;v;;r;;d-1,-1;;b1,0;;m">
+</treenode>
+<treenode node="Notification.php;PHP:PHP Include;P:\Busness Park\Task1\Maryam\BP\QueryBuilder.php;f15;5;31;5;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f15;9;31;9;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f15;9;31;9;;;;vpos;;v;;r;;d-1,-1;;b1,0;;m">
+</treenode>
+<treenode node="OrderClass.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\Controller\Codelobster0.php;f14;3;28;3;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f14;3;28;3;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f14;3;28;3;;;;vpos;;v;;r;;d-1,-1;;b1,0;;m">
+</treenode>
+<treenode node="Provider.php;PHP:PHP Include;P:\Busness Park\Task1\Maryam\BP\QueryBuilder.php;f15;4;27;4;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f15;8;27;8;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f15;8;27;8;;;;vpos;;v;;r;;d-1,-1;;b1,0;;m">
+</treenode>
+<treenode node="QueryBuilder.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f14;4;30;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="Rate.php;PHP:PHP Include;P:\Busness Park\Task1\Maryam\BP\QueryBuilder.php;f15;6;23;6;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f15;10;23;10;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f15;10;23;10;;;;vpos;;v;;r;;d-1,-1;;b1,0;;m">
+</treenode>
+<treenode node="Review.php;PHP:PHP Include;P:\Busness Park\Task1\Maryam\BP\QueryBuilder.php;f15;7;25;7;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f15;11;25;11;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f15;11;25;11;;;;vpos;;v;;r;;d-1,-1;;b1,0;;m">
+</treenode>
+<treenode node="ServiceClass.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\Controller\Codelobster0.php;f14;2;30;2;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f14;2;30;2;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f14;2;30;2;;;;vpos;;v;;r;;d-1,-1;;b1,0;;m">
+</treenode>
+<treenode node="SpecialOrderClass.php;PHP:PHP Include;C:\xampp\htdocs\dashboard\BP\Controller\Codelobster0.php;f14;4;35;4;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f14;4;35;4;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f14;4;35;4;;;;vpos;;v;;r;;d-1,-1;;b1,0;;m">
+</treenode>
+<treenode node="User.php;PHP:PHP Include;P:\Busness Park\Task1\Maryam\BP\QueryBuilder.php;f15;2;23;2;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f14;6;22;6;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f14;6;22;6;;;;vpos;;v;;r;;d-1,-1;;b1,0;;m">
+</treenode>
+<treenode node="Client;PHP:Class Name;C:\xampp\htdocs\dashboard\BP\Controller\Client.php;f0;1;1;10;;;;vpos;;vUser;;c;;r;;d0,2;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Client.php;f3;3;2;9;;;;vpos;;v;;r;;d1,4;;b0,0;;mid;;p">
+</treenode>
+</treenode>
+<treenode node="Connection;PHP:Class Name;C:\xampp\htdocs\dashboard\BP\Controller\DBConnection.php;f0;3;1;27;;;;vpos;;v;;r;;d17,3;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\DBConnection.php;f4;11;5;21;;;;vpos;;v;;r;;d27,11;;b0,0;;m">
+</treenode>
+<treenode node="closeConnection;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\DBConnection.php;f11;23;5;26;;;;vpos;;v;;r;;d38,23;;b1,0;;m">
+</treenode>
+</treenode>
+<treenode node="course;PHP:Class Name;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.3846\course.class.php;f0;14;1;51;;;;vpos;;v;;r&#10;Definition&#10;    class course&#10;&#10;Description&#10;     Description of courses;;d13,14;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.3846\course.class.php;f11;19;5;22;;;;vpos;;v;;r;;d47,19;;b1,0;;mname;;plevel;;p">
+</treenode>
+<treenode node="getCourses;PHP:Function Name;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.3846\course.class.php;f18;35;5;49;;;;vpos;;v;;r;;d46,35;;b1,5;;mlevel;;p">
+</treenode>
+<treenode node="register;PHP:Function Name;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.3846\course.class.php;f11;24;5;33;;;;vpos;;v;;r;;d31,24;;b1,0;;m">
+</treenode>
+</treenode>
+<treenode node="Database;PHP:Class Name;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.4701\database.php;f0;8;1;84;;;;vpos;;v;;r;;d15,8;;b0,0;;m">
+<treenode node="autoLoad;PHP:Function Name;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.4701\database.php;f18;61;5;78;;;;vpos;;v;;r;;d38,61;;b1,5;;m">
+</treenode>
+<treenode node="getConnection;PHP:Function Name;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.4701\database.php;f18;49;5;59;;;;vpos;;v;;r;;d43,49;;b1,5;;m">
+</treenode>
+<treenode node="loadData;PHP:Function Name;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.4701\database.php;f18;80;5;82;;;;vpos;;v;;r;;d38,80;;b1,5;;m">
+</treenode>
+</treenode>
+<treenode node="Item;PHP:Class Name;C:\xampp\htdocs\dashboard\BP\Controller\ItemClass.php;f0;3;1;118;;;;vpos;;v;;r;;d0,4;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\ItemClass.php;f2;18;9;42;;;;vpos;;v;;r;;d8,19;;b0,0;;mid;;p">
+</treenode>
+<treenode node="getID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\ItemClass.php;f8;44;2;47;;;;vpos;;v;;r;;d1,45;;b1,0;;m">
+</treenode>
+<treenode node="getItemCategory;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\ItemClass.php;f8;69;2;72;;;;vpos;;v;;r;;d1,70;;b1,0;;m">
+</treenode>
+<treenode node="getItemDescription;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\ItemClass.php;f8;59;2;62;;;;vpos;;v;;r;;d1,60;;b1,0;;m">
+</treenode>
+<treenode node="getMealName;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\ItemClass.php;f8;49;2;52;;;;vpos;;v;;r;;d1,50;;b1,0;;m">
+</treenode>
+<treenode node="getMealPrice;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\ItemClass.php;f8;54;2;57;;;;vpos;;v;;r;;d1,55;;b1,0;;m">
+</treenode>
+<treenode node="getMenuID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\ItemClass.php;f8;64;2;67;;;;vpos;;v;;r;;d1,65;;b1,0;;m">
+</treenode>
+<treenode node="getNumbOfOrders;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\ItemClass.php;f8;78;2;81;;;;vpos;;v;;r;;d1,79;;b1,0;;m">
+</treenode>
+<treenode node="getRate;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\ItemClass.php;f8;74;2;77;;;;vpos;;v;;r;;d1,75;;b1,0;;m">
+</treenode>
+<treenode node="setItemCategory;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\ItemClass.php;f8;109;2;112;;;;vpos;;v;;r;;d1,110;;b1,0;;mcategory;;p">
+</treenode>
+<treenode node="setItemDescription;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\ItemClass.php;f8;94;2;97;;;;vpos;;v;;r;;d1,95;;b1,0;;mdes;;p">
+</treenode>
+<treenode node="setMealName;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\ItemClass.php;f8;84;2;87;;;;vpos;;v;;r;;d1,85;;b1,0;;mname;;p">
+</treenode>
+<treenode node="setMealPrice;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\ItemClass.php;f8;89;2;92;;;;vpos;;v;;r;;d1,90;;b1,0;;mprice;;p">
+</treenode>
+<treenode node="setMenuID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\ItemClass.php;f8;98;2;101;;;;vpos;;v;;r;;d1,99;;b1,0;;mid;;p">
+</treenode>
+<treenode node="setNumbOfOrders;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\ItemClass.php;f8;113;2;116;;;;vpos;;v;;r;;d1,114;;b1,0;;mno;;p">
+</treenode>
+<treenode node="setRate;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\ItemClass.php;f9;103;2;106;;;;vpos;;v;;r;;d1,104;;b1,0;;mrate;;p">
+</treenode>
+</treenode>
+<treenode node="Menu;PHP:Class Name;C:\xampp\htdocs\dashboard\BP\Controller\Menu.php;f0;1;3;53;;;;vpos;;v;;r;;d0,2;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Menu.php;f3;11;2;24;;;;vpos;;v;;r;;d1,12;;b0,0;;mid;;p">
+</treenode>
+<treenode node="getMenuID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Menu.php;f3;40;4;43;;;;vpos;;v;;r;;d3,41;;b0,0;;m">
+</treenode>
+<treenode node="getName;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Menu.php;f3;44;4;47;;;;vpos;;v;;r;;d3,45;;b0,0;;m">
+</treenode>
+<treenode node="getProviderID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Menu.php;f4;48;4;51;;;;vpos;;v;;r;;d3,49;;b0,0;;m">
+</treenode>
+<treenode node="setMenuID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Menu.php;f10;26;4;29;;;;vpos;;v;;r;;d3,27;;b1,0;;mMID;;p">
+</treenode>
+<treenode node="setName;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Menu.php;f10;30;4;33;;;;vpos;;v;;r;;d3,31;;b1,0;;mMenuName;;p">
+</treenode>
+<treenode node="setProviderID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Menu.php;f10;34;4;37;;;;vpos;;v;;r;;d3,35;;b1,0;;mPID;;p">
+</treenode>
+</treenode>
+<treenode node="Notification;PHP:Class Name;C:\xampp\htdocs\dashboard\BP\Controller\Notification.php;f0;1;3;78;;C:\xampp\htdocs\dashboard\BP\Model\Notification.php;f0;1;3;101;;;;vpos;;v;;r;;d0,2;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Notification.php;f3;10;2;27;;C:\xampp\htdocs\dashboard\BP\Model\Notification.php;f3;10;2;27;;;;vpos;;v;;r;;d1,11;;b0,0;;mid;;p">
+</treenode>
+<treenode node="Confirm;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Model\Notification.php;f10;79;2;100;;;;vpos;;v;;r;;d1,80;;b0,5;;mNotObject;;p">
+</treenode>
+<treenode node="getMessage;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Notification.php;f3;66;4;69;;C:\xampp\htdocs\dashboard\BP\Model\Notification.php;f3;66;4;69;;;;vpos;;v;;r;;d3,67;;b0,0;;m">
+</treenode>
+<treenode node="getNotificationFrom;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Notification.php;f3;58;4;61;;C:\xampp\htdocs\dashboard\BP\Model\Notification.php;f3;58;4;61;;;;vpos;;v;;r;;d3,59;;b0,0;;m">
+</treenode>
+<treenode node="getNotificationID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Notification.php;f3;54;4;57;;C:\xampp\htdocs\dashboard\BP\Model\Notification.php;f3;54;4;57;;;;vpos;;v;;r;;d3,55;;b0,0;;m">
+</treenode>
+<treenode node="getNotificationTo;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Notification.php;f3;62;4;65;;C:\xampp\htdocs\dashboard\BP\Model\Notification.php;f3;62;4;65;;;;vpos;;v;;r;;d3,63;;b0,0;;m">
+</treenode>
+<treenode node="getOrderID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Notification.php;f3;70;4;73;;C:\xampp\htdocs\dashboard\BP\Model\Notification.php;f3;70;4;73;;;;vpos;;v;;r;;d3,71;;b0,0;;m">
+</treenode>
+<treenode node="getTime;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Notification.php;f3;74;4;77;;C:\xampp\htdocs\dashboard\BP\Model\Notification.php;f3;74;4;77;;;;vpos;;v;;r;;d3,75;;b0,0;;m">
+</treenode>
+<treenode node="setMessage;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Notification.php;f10;41;4;44;;C:\xampp\htdocs\dashboard\BP\Model\Notification.php;f10;41;4;44;;;;vpos;;v;;r;;d3,42;;b1,0;;mM;;p">
+</treenode>
+<treenode node="setNotificationFrom;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Notification.php;f10;33;4;36;;C:\xampp\htdocs\dashboard\BP\Model\Notification.php;f10;33;4;36;;;;vpos;;v;;r;;d3,34;;b1,0;;mF;;p">
+</treenode>
+<treenode node="setNotificationID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Notification.php;f10;29;4;32;;C:\xampp\htdocs\dashboard\BP\Model\Notification.php;f10;29;4;32;;;;vpos;;v;;r;;d3,30;;b1,0;;mNID;;p">
+</treenode>
+<treenode node="setNotificationTo;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Notification.php;f10;37;4;40;;C:\xampp\htdocs\dashboard\BP\Model\Notification.php;f10;37;4;40;;;;vpos;;v;;r;;d3,38;;b1,0;;mT;;p">
+</treenode>
+<treenode node="setOrderID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Notification.php;f10;45;4;48;;C:\xampp\htdocs\dashboard\BP\Model\Notification.php;f10;45;4;48;;;;vpos;;v;;r;;d3,46;;b1,0;;mO;;p">
+</treenode>
+<treenode node="setTime;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Notification.php;f10;49;4;52;;C:\xampp\htdocs\dashboard\BP\Model\Notification.php;f10;49;4;52;;;;vpos;;v;;r;;d3,50;;b1,0;;mt;;p">
+</treenode>
+</treenode>
+<treenode node="Order;PHP:Class Name;C:\xampp\htdocs\dashboard\BP\Controller\OrderClass.php;f0;3;1;114;;;;vpos;;v;;r;;d0,4;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\OrderClass.php;f2;16;9;38;;;;vpos;;v;;r;;d8,17;;b0,0;;mid;;p">
+</treenode>
+<treenode node="getCustomerID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\OrderClass.php;f8;50;2;53;;;;vpos;;v;;r;;d1,51;;b1,0;;m">
+</treenode>
+<treenode node="getID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\OrderClass.php;f8;40;2;43;;;;vpos;;v;;r;;d1,41;;b1,0;;m">
+</treenode>
+<treenode node="getItemID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\OrderClass.php;f8;55;2;58;;;;vpos;;v;;r;;d1,56;;b1,0;;m">
+</treenode>
+<treenode node="getProviderID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\OrderClass.php;f8;45;2;48;;;;vpos;;v;;r;;d1,46;;b1,0;;m">
+</treenode>
+<treenode node="MakeOrder;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\OrderClass.php;f8;88;2;113;;;;vpos;;v;;r;;d1,89;;b0,5;;mOrderObject;;p">
+</treenode>
+<treenode node="setCustomerID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\OrderClass.php;f8;72;2;75;;;;vpos;;v;;r;;d1,73;;b1,0;;mid;;p">
+</treenode>
+<treenode node="setItemID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\OrderClass.php;f8;77;2;80;;;;vpos;;v;;r;;d1,78;;b1,0;;mid;;p">
+</treenode>
+<treenode node="setProviderID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\OrderClass.php;f8;67;2;70;;;;vpos;;v;;r;;d1,68;;b1,0;;mid;;p">
+</treenode>
+</treenode>
+<treenode node="Provider;PHP:Class Name;C:\xampp\htdocs\dashboard\BP\Controller\Provider.php;f0;1;3;75;;;;vpos;;vUser;;c;;r;;d0,2;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Provider.php;f4;11;2;29;;;;vpos;;v;;r;;d1,12;;b0,0;;mid;;p">
+</treenode>
+<treenode node="getAddress;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Provider.php;f3;67;4;70;;;;vpos;;v;;r;;d3,68;;b0,0;;m">
+</treenode>
+<treenode node="getAvailable;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Provider.php;f3;71;4;74;;;;vpos;;v;;r;;d3,72;;b0,0;;m">
+</treenode>
+<treenode node="getHotLine;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Provider.php;f3;63;4;66;;;;vpos;;v;;r;;d3,64;;b0,0;;m">
+</treenode>
+<treenode node="getProviderID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Provider.php;f3;58;4;61;;;;vpos;;v;;r;;d3,59;;b0,0;;m">
+</treenode>
+<treenode node="getWorkingHours;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Provider.php;f3;54;4;57;;;;vpos;;v;;r;;d3,55;;b0,0;;m">
+</treenode>
+<treenode node="setAddress;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Provider.php;f10;45;4;48;;;;vpos;;v;;r;;d3,46;;b1,0;;mAdd;;p">
+</treenode>
+<treenode node="setAvailable;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Provider.php;f10;49;4;52;;;;vpos;;v;;r;;d3,50;;b1,0;;mA;;p">
+</treenode>
+<treenode node="setHotLine;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Provider.php;f10;41;4;44;;;;vpos;;v;;r;;d3,42;;b1,0;;mHL;;p">
+</treenode>
+<treenode node="setProviderID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Provider.php;f10;35;4;38;;;;vpos;;v;;r;;d3,36;;b1,0;;mid;;p">
+</treenode>
+<treenode node="setWorkingHours;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Provider.php;f10;31;4;34;;;;vpos;;v;;r;;d3,32;;b1,0;;mWH;;p">
+</treenode>
+</treenode>
+<treenode node="QueryBuilder;PHP:Class Name;C:\xampp\htdocs\dashboard\BP\Controller\Codelobster0.php;f0;11;1;161;;P:\Busness Park\Task1\Maryam\BP\QueryBuilder.php;f0;12;1;102;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f0;19;1;626;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f0;19;1;577;;;;vpos;;vConnection;;c;;r;;d0,20;;b0,0;;m">
+<treenode node="addClient;PHP:Function Name;P:\Busness Park\Task1\Maryam\BP\QueryBuilder.php;f8;48;2;53;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;396;2;401;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;396;2;401;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;396;2;401;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;396;2;401;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;393;2;398;;;;vpos;;v;;r;;d1,394;;b1,0;;mC;;p">
+</treenode>
+<treenode node="addItem;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;177;2;184;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;177;2;184;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;177;2;184;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;177;2;184;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;177;2;184;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;177;2;184;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;177;2;184;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;177;2;184;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;177;2;184;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;177;2;184;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;177;2;184;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;177;2;184;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;177;2;184;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;177;2;184;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;177;2;184;;;;vpos;;v;;r;;d1,178;;b1,0;;mItemObj;;p">
+</treenode>
+<treenode node="AddM;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f11;436;2;443;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f11;436;2;443;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f11;433;2;440;;;;vpos;;v;;r;;d4,434;;b1,0;;mMObj;;p">
+</treenode>
+<treenode node="addMenu;PHP:Function Name;P:\Busness Park\Task1\Maryam\BP\QueryBuilder.php;f8;70;2;76;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;426;2;433;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;426;2;433;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;426;2;433;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;426;2;433;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;423;2;430;;;;vpos;;v;;r;;d1,424;;b1,0;;mname;;pproviderID;;p">
+</treenode>
+<treenode node="addNotification;PHP:Function Name;P:\Busness Park\Task1\Maryam\BP\QueryBuilder.php;f8;79;2;84;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;554;2;559;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;504;2;510;;;;vpos;;v;;r;;d1,505;;b1,0;;mN;;p">
+</treenode>
+<treenode node="addOrder;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Codelobster0.php;f8;32;2;39;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;40;2;48;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;40;2;48;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;40;2;48;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;40;2;48;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;40;2;48;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;40;2;48;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;40;2;48;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;40;2;48;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;40;2;48;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;40;2;48;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;40;2;48;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;40;2;48;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;40;2;48;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;40;2;48;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;40;2;48;;;;vpos;;v;;r;;d1,41;;b1,0;;mOrderObj;;p">
+</treenode>
+<treenode node="addProvider;PHP:Function Name;P:\Busness Park\Task1\Maryam\BP\QueryBuilder.php;f8;56;2;61;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;404;2;409;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;404;2;409;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;404;2;409;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;404;2;409;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;401;2;406;;;;vpos;;v;;r;;d1,402;;b1,0;;mP;;p">
+</treenode>
+<treenode node="addRate;PHP:Function Name;P:\Busness Park\Task1\Maryam\BP\QueryBuilder.php;f8;87;2;92;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;561;2;566;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;512;2;517;;;;vpos;;v;;r;;d1,513;;b1,0;;mR;;p">
+</treenode>
+<treenode node="addReview;PHP:Function Name;P:\Busness Park\Task1\Maryam\BP\QueryBuilder.php;f8;95;2;100;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;568;2;573;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;519;2;524;;;;vpos;;v;;r;;d1,520;;b1,0;;mR;;p">
+</treenode>
+<treenode node="addService;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Codelobster0.php;f8;15;2;20;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;23;2;28;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;23;2;28;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;23;2;28;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;23;2;28;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;23;2;28;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;23;2;28;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;23;2;28;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;23;2;28;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;23;2;28;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;23;2;28;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;23;2;28;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;23;2;28;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;23;2;28;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;23;2;28;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;23;2;28;;;;vpos;;v;;r;;d1,24;;b1,0;;mServiseObj;;p">
+</treenode>
+<treenode node="addSpecialOrder;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Codelobster0.php;f8;98;2;105;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;107;2;114;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;107;2;114;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;107;2;114;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;107;2;114;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;107;2;114;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;107;2;114;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;107;2;114;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;107;2;114;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;107;2;114;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;107;2;114;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;107;2;114;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;107;2;114;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;107;2;114;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;107;2;114;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;107;2;114;;;;vpos;;v;;r;;d1,108;;b1,0;;mOrderObj;;p">
+</treenode>
+<treenode node="addUser;PHP:Function Name;P:\Busness Park\Task1\Maryam\BP\QueryBuilder.php;f8;15;3;21;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f15;278;3;284;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f15;278;3;284;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f15;278;3;284;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f15;278;3;284;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f15;278;3;284;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f15;278;3;284;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f15;278;3;284;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f15;278;3;284;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f15;278;3;284;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f15;278;3;284;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f15;278;3;284;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f15;278;3;284;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f15;278;3;284;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f15;278;3;284;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f7;295;3;301;;;;vpos;;v;;r;;d2,296;;b1,0;;mU;;p">
+</treenode>
+<treenode node="cancelOrder;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Codelobster0.php;f8;48;2;53;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;57;2;62;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;57;2;62;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;57;2;62;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;57;2;62;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;57;2;62;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;57;2;62;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;57;2;62;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;57;2;62;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;57;2;62;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;57;2;62;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;57;2;62;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;57;2;62;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;57;2;62;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;57;2;62;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;57;2;62;;;;vpos;;v;;r;;d1,58;;b1,0;;mOrderID;;p">
+</treenode>
+<treenode node="cancelSpecialOrder;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Codelobster0.php;f8;114;2;119;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;123;2;128;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;123;2;128;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;123;2;128;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;123;2;128;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;123;2;128;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;123;2;128;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;123;2;128;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;123;2;128;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;123;2;128;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;123;2;128;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;123;2;128;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;123;2;128;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;123;2;128;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;123;2;128;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;123;2;128;;;;vpos;;v;;r;;d1,124;;b1,0;;mOrderID;;p">
+</treenode>
+<treenode node="checkMenuIsExist;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f11;444;2;454;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f11;444;2;454;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f11;441;2;451;;;;vpos;;v;;r;;d1,442;;b1,0;;mProviderID;;p">
+</treenode>
+<treenode node="deleteItem;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;186;2;191;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;186;2;191;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;186;2;191;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;186;2;191;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;186;2;191;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;186;2;191;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;186;2;191;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;186;2;191;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;186;2;191;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;186;2;191;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;186;2;191;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;186;2;191;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;186;2;191;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;186;2;191;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;186;2;191;;;;vpos;;v;;r;;d1,187;;b1,0;;mItemID;;p">
+</treenode>
+<treenode node="isExist;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f7;583;2;603;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f7;534;2;554;;;;vpos;;v;;r;;d1,535;;b0,5;;memail;;pusername;;p">
+</treenode>
+<treenode node="moveOrderToHistoryOrder;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Codelobster0.php;f8;41;2;46;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;50;2;55;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;50;2;55;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;50;2;55;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;50;2;55;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;50;2;55;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;50;2;55;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;50;2;55;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;50;2;55;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;50;2;55;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;50;2;55;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;50;2;55;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;50;2;55;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;50;2;55;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;50;2;55;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;50;2;55;;;;vpos;;v;;r;;d1,51;;b1,0;;mOrderID;;p">
+</treenode>
+<treenode node="moveSpecialOrderToHistory;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Codelobster0.php;f8;107;2;112;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;116;2;121;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;116;2;121;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;116;2;121;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;116;2;121;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;116;2;121;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;116;2;121;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;116;2;121;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;116;2;121;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;116;2;121;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;116;2;121;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;116;2;121;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;116;2;121;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;116;2;121;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;116;2;121;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;116;2;121;;;;vpos;;v;;r;;d1,117;;b1,0;;mOrderID;;p">
+</treenode>
+<treenode node="OrderToCancel;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;274;2;292;;;;vpos;;v;;r;;d1,275;;b1,0;;morderID;;p">
+</treenode>
+<treenode node="removeUser;PHP:Function Name;P:\Busness Park\Task1\Maryam\BP\QueryBuilder.php;f8;40;2;45;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;388;2;393;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;388;2;393;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;388;2;393;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;388;2;393;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;385;2;390;;;;vpos;;v;;r;;d1,386;;b1,0;;mID;;p">
+</treenode>
+<treenode node="selectAllCustomerOrders;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Codelobster0.php;f8;73;2;88;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;82;2;97;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;82;2;97;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;82;2;97;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;82;2;97;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;82;2;97;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;82;2;97;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;82;2;97;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;82;2;97;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;82;2;97;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;82;2;97;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;82;2;97;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;82;2;97;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;82;2;97;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;82;2;97;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;82;2;97;;;;vpos;;v;;r;;d1,83;;b1,0;;mCustomerID;;p">
+</treenode>
+<treenode node="selectAllCustomerSpecialOrders;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Codelobster0.php;f8;139;2;154;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;148;2;162;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;148;2;162;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;148;2;162;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;148;2;162;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;148;2;162;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;148;2;162;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;148;2;162;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;148;2;162;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;148;2;162;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;148;2;162;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;148;2;162;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;148;2;162;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;148;2;162;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;148;2;162;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;148;2;162;;;;vpos;;v;;r;;d1,149;;b1,0;;mCustomerID;;p">
+</treenode>
+<treenode node="selectAllItems;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f9;233;2;250;;;;vpos;;v;;r;;d1,234;;b0,5;;m">
+</treenode>
+<treenode node="selectAllItemsByCategoty;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;213;2;231;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;213;2;231;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;213;2;231;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;213;2;231;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;213;2;231;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;213;2;231;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;213;2;231;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;213;2;231;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;213;2;231;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;213;2;231;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;213;2;231;;;;vpos;;v;;r;;d1,214;;b1,0;;mcat;;p">
+</treenode>
+<treenode node="selectAllProviderMenuItems;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;194;2;211;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;194;2;211;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;194;2;211;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;194;2;211;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;194;2;211;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;194;2;211;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;194;2;211;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;194;2;211;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;194;2;211;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;194;2;211;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;194;2;211;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;194;2;211;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;194;2;211;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;194;2;211;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;194;2;211;;;;vpos;;v;;r;;d1,195;;b1,0;;mMID;;p">
+</treenode>
+<treenode node="selectAllProviderOrders;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Codelobster0.php;f8;55;2;71;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;64;2;80;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;64;2;80;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;64;2;80;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;64;2;80;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;64;2;80;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;64;2;80;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;64;2;80;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;64;2;80;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;64;2;80;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;64;2;80;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;64;2;80;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;64;2;80;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;64;2;80;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;64;2;80;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;64;2;80;;;;vpos;;v;;r;;d1,65;;b1,0;;mProviderID;;p">
+</treenode>
+<treenode node="selectAllProviderSpecialOrders;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Codelobster0.php;f8;121;2;137;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;130;2;146;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;130;2;146;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;130;2;146;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;130;2;146;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;130;2;146;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;130;2;146;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;130;2;146;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;130;2;146;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;130;2;146;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;130;2;146;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;130;2;146;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;130;2;146;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;130;2;146;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;130;2;146;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;130;2;146;;;;vpos;;v;;r;;d1,131;;b1,0;;mProviderID;;p">
+</treenode>
+<treenode node="selectByEmail;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;320;2;335;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;320;2;335;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;317;2;332;;;;vpos;;v;;r;;d4,318;;b1,0;;me;;p">
+</treenode>
+<treenode node="selectByEmailOrUserName;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;605;2;622;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;556;2;573;;;;vpos;;v;;r;;d1,557;;b1,0;;mname;;ppass;;p">
+</treenode>
+<treenode node="selectByUserName;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;336;2;351;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;336;2;351;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;333;2;348;;;;vpos;;v;;r;;d1,334;;b1,0;;mname;;p">
+</treenode>
+<treenode node="selectItemFromOrder;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;257;2;273;;;;vpos;;v;;r;;d1,258;;b1,0;;mordID;;p">
+</treenode>
+<treenode node="selectItemProvider;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;259;2;275;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;259;2;275;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;259;2;275;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;259;2;275;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;259;2;275;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;259;2;275;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;259;2;275;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;259;2;275;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;259;2;275;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;240;2;256;;;;vpos;;v;;r;;d1,241;;b1,0;;mItemID;;p">
+</treenode>
+<treenode node="selectMenuID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;458;2;488;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;458;2;488;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;455;2;485;;;;vpos;;v;;r;;d1,456;;b1,0;;mPID;;p">
+</treenode>
+<treenode node="selectMenuIdByName;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;521;2;535;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;521;2;535;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;487;2;501;;;;vpos;;v;;r;;d1,488;;b1,0;;mname;;p">
+</treenode>
+<treenode node="selectMenuIdByPID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;536;2;550;;;;vpos;;v;;r;;d1,537;;b1,0;;mid;;p">
+</treenode>
+<treenode node="selectProvIDByMenu;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;489;2;519;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;489;2;519;;;;vpos;;v;;r;;d1,490;;b1,0;;mMID;;p">
+</treenode>
+<treenode node="selectProvider;PHP:Function Name;P:\Busness Park\Task1\Maryam\BP\QueryBuilder.php;f8;62;2;67;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;410;2;423;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;410;2;423;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;410;2;423;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;410;2;423;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;407;2;420;;;;vpos;;v;;r;;d1,408;;b1,0;;mID;;p">
+</treenode>
+<treenode node="selectUser;PHP:Function Name;P:\Busness Park\Task1\Maryam\BP\QueryBuilder.php;f8;22;3;27;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f11;305;3;318;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f11;305;3;318;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f11;305;3;318;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f11;305;3;318;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f11;305;3;318;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f11;305;3;318;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f11;305;3;318;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f11;302;3;315;;;;vpos;;v;;r;;d2,303;;b0,5;;mID;;p">
+</treenode>
+<treenode node="selectUserEmail;PHP:Function Name;P:\Busness Park\Task1\Maryam\BP\QueryBuilder.php;f8;34;2;39;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;374;2;387;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;374;2;387;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;374;2;387;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;374;2;387;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;371;2;384;;;;vpos;;v;;r;;d1,372;;b1,0;;mID;;p">
+</treenode>
+<treenode node="selectUserType;PHP:Function Name;P:\Busness Park\Task1\Maryam\BP\QueryBuilder.php;f8;28;2;33;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;360;2;373;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;360;2;373;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;360;2;373;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f8;360;2;373;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f8;357;2;370;;;;vpos;;v;;r;;d1,358;;b1,0;;mID;;p">
+</treenode>
+<treenode node="updateItem;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f9;251;2;258;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f9;251;2;258;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f9;251;2;258;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f9;251;2;258;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f9;251;2;258;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f9;251;2;258;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f9;251;2;258;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f9;251;2;258;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f9;251;2;258;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f9;251;2;258;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f9;251;2;258;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f9;251;2;258;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f9;251;2;258;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f9;251;2;258;;C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php;f9;232;2;239;;;;vpos;;v;;r;;d2,233;;b1,0;;mitemObj;;p">
+</treenode>
+<treenode node="updateUser;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f10;286;3;294;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f10;286;3;294;;;;vpos;;v;;r;;d2,287;;b1,0;;mU;;p">
+</treenode>
+<treenode node="updateUserPass;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f10;295;3;303;;C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php;f10;295;3;303;;;;vpos;;v;;r;;d2,296;;b1,0;;mUser;;p">
+</treenode>
+</treenode>
+<treenode node="Rate;PHP:Class Name;C:\xampp\htdocs\dashboard\BP\Controller\Rate.php;f0;1;3;59;;;;vpos;;v;;r;;d0,2;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Rate.php;f3;8;2;23;;;;vpos;;v;;r;;d1,9;;b0,0;;mid;;p">
+</treenode>
+<treenode node="getID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Rate.php;f3;43;4;46;;;;vpos;;v;;r;;d3,44;;b0,0;;m">
+</treenode>
+<treenode node="getRate;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Rate.php;f3;55;4;58;;;;vpos;;v;;r;;d3,56;;b0,0;;m">
+</treenode>
+<treenode node="getRateFrom;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Rate.php;f3;47;4;50;;;;vpos;;v;;r;;d3,48;;b0,0;;m">
+</treenode>
+<treenode node="getRateTo;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Rate.php;f3;51;4;54;;;;vpos;;v;;r;;d3,52;;b0,0;;m">
+</treenode>
+<treenode node="setID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Rate.php;f11;25;4;28;;;;vpos;;v;;r;;d3,26;;b1,0;;mRID;;p">
+</treenode>
+<treenode node="setRate;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Rate.php;f10;37;4;40;;;;vpos;;v;;r;;d3,38;;b1,0;;mRate;;p">
+</treenode>
+<treenode node="setRateFrom;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Rate.php;f10;29;4;32;;;;vpos;;v;;r;;d3,30;;b1,0;;mRateFrom;;p">
+</treenode>
+<treenode node="setRateTo;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Rate.php;f10;33;4;36;;;;vpos;;v;;r;;d3,34;;b1,0;;mRateTo;;p">
+</treenode>
+</treenode>
+<treenode node="Review;PHP:Class Name;C:\xampp\htdocs\dashboard\BP\Controller\Review.php;f0;1;3;68;;;;vpos;;v;;r;;d0,2;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Review.php;f3;9;2;25;;;;vpos;;v;;r;;d1,10;;b0,0;;mid;;p">
+</treenode>
+<treenode node="getClientID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Review.php;f3;60;4;63;;;;vpos;;v;;r;;d3,61;;b0,0;;m">
+</treenode>
+<treenode node="getComment;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Review.php;f3;56;4;59;;;;vpos;;v;;r;;d3,57;;b0,0;;m">
+</treenode>
+<treenode node="getID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Review.php;f3;48;4;51;;;;vpos;;v;;r;;d3,49;;b0,0;;m">
+</treenode>
+<treenode node="getItemID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Review.php;f3;64;4;67;;;;vpos;;v;;r;;d3,65;;b0,0;;m">
+</treenode>
+<treenode node="getRate;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Review.php;f3;52;4;55;;;;vpos;;v;;r;;d3,53;;b0,0;;m">
+</treenode>
+<treenode node="setClientID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Review.php;f10;39;4;42;;;;vpos;;v;;r;;d3,40;;b1,0;;mCID;;p">
+</treenode>
+<treenode node="setComment;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Review.php;f10;35;4;38;;;;vpos;;v;;r;;d3,36;;b1,0;;mComment;;p">
+</treenode>
+<treenode node="setID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Review.php;f11;27;4;30;;;;vpos;;v;;r;;d3,28;;b1,0;;mRID;;p">
+</treenode>
+<treenode node="setItemID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Review.php;f9;43;4;46;;;;vpos;;v;;r;;d3,44;;b1,0;;mItemID;;p">
+</treenode>
+<treenode node="setRate;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\Review.php;f10;31;4;34;;;;vpos;;v;;r;;d3,32;;b1,0;;mRate;;p">
+</treenode>
+</treenode>
+<treenode node="Service;PHP:Class Name;C:\xampp\htdocs\dashboard\BP\Controller\ServiceClass.php;f0;2;1;29;;;;vpos;;v;;r;;d0,3;;b0,0;;m">
+<treenode node="getID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\ServiceClass.php;f8;10;2;13;;;;vpos;;v;;r;;d1,11;;b1,0;;m">
+</treenode>
+<treenode node="getName;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\ServiceClass.php;f8;15;2;18;;;;vpos;;v;;r;;d1,16;;b1,0;;m">
+</treenode>
+<treenode node="setID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\ServiceClass.php;f8;20;2;23;;;;vpos;;v;;r;;d1,21;;b1,0;;mid;;p">
+</treenode>
+<treenode node="setName;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\ServiceClass.php;f8;25;2;28;;;;vpos;;v;;r;;d1,26;;b1,0;;mname;;p">
+</treenode>
+</treenode>
+<treenode node="SpecialOrder;PHP:Class Name;C:\xampp\htdocs\dashboard\BP\Controller\SpecialOrderClass.php;f0;3;1;75;;;;vpos;;v;;r;;d0,4;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\SpecialOrderClass.php;f2;15;9;35;;;;vpos;;v;;r;;d8,16;;b0,0;;mid;;p">
+</treenode>
+<treenode node="getCustomerID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\SpecialOrderClass.php;f8;47;2;50;;;;vpos;;v;;r;;d1,48;;b1,0;;m">
+</treenode>
+<treenode node="getID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\SpecialOrderClass.php;f8;37;2;40;;;;vpos;;v;;r;;d1,38;;b1,0;;m">
+</treenode>
+<treenode node="getOrderDescription;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\SpecialOrderClass.php;f8;52;2;55;;;;vpos;;v;;r;;d1,53;;b1,0;;m">
+</treenode>
+<treenode node="getProviderID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\SpecialOrderClass.php;f8;42;2;45;;;;vpos;;v;;r;;d1,43;;b1,0;;m">
+</treenode>
+<treenode node="setCustomerID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\SpecialOrderClass.php;f8;64;2;67;;;;vpos;;v;;r;;d1,65;;b1,0;;mid;;p">
+</treenode>
+<treenode node="setOrderDescription;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\SpecialOrderClass.php;f8;69;2;72;;;;vpos;;v;;r;;d1,70;;b1,0;;mOrderDes;;p">
+</treenode>
+<treenode node="setProviderID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\SpecialOrderClass.php;f8;59;2;62;;;;vpos;;v;;r;;d1,60;;b1,0;;mid;;p">
+</treenode>
+</treenode>
+<treenode node="Student;PHP:Class Name;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.5679\student.class.php;f0;14;1;58;;;;vpos;;vUser;;c;;r;;d0,217;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.5679\student.class.php;f11;23;5;30;;;;vpos;;v;;r;;d90,23;;b1,0;;mfirstName;;plastName;;pId;;puserName;;ppassword;;plevel;;p">
+</treenode>
+<treenode node="login;PHP:Function Name;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.5679\student.class.php;f18;43;5;56;;;;vpos;;v;;r;;d55,43;;b1,5;;musername;;ppassword;;p">
+</treenode>
+<treenode node="register;PHP:Function Name;C:\Users\SAMAAM~1\AppData\Local\Temp\Rar$DIa16624.5679\student.class.php;f11;32;5;41;;;;vpos;;v;;r;;d31,32;;b1,0;;m">
+</treenode>
+</treenode>
+<treenode node="User;PHP:Class Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f0;6;1;187;;;;vpos;;v;;r;;d0,7;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f3;23;2;46;;;;vpos;;v;;r;;d1,24;;b0,0;;mid;;p">
+</treenode>
+<treenode node="getGov;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f2;133;3;136;;;;vpos;;v;;r;;d2,134;;b0,0;;m">
+</treenode>
+<treenode node="getUserEmail;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f2;117;3;120;;;;vpos;;v;;r;;d2,118;;b0,0;;m">
+</treenode>
+<treenode node="getUserFname;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f2;105;3;108;;;;vpos;;v;;r;;d2,106;;b0,0;;m">
+</treenode>
+<treenode node="getUserGender;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f2;129;3;132;;;;vpos;;v;;r;;d2,130;;b0,0;;m">
+</treenode>
+<treenode node="getUserID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f2;97;3;100;;;;vpos;;v;;r;;d2,98;;b0,0;;m">
+</treenode>
+<treenode node="getUserLname;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f2;109;3;112;;;;vpos;;v;;r;;d2,110;;b0,0;;m">
+</treenode>
+<treenode node="getUserMobile;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f2;121;3;124;;;;vpos;;v;;r;;d2,122;;b0,0;;m">
+</treenode>
+<treenode node="getUserName;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f2;113;3;116;;;;vpos;;v;;r;;d2,114;;b0,0;;m">
+</treenode>
+<treenode node="getUserPassword;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f2;125;3;128;;;;vpos;;v;;r;;d2,126;;b0,0;;m">
+</treenode>
+<treenode node="getUserRate;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f2;141;3;144;;;;vpos;;v;;r;;d2,142;;b0,0;;m">
+</treenode>
+<treenode node="getUserRemoved;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f2;137;3;140;;;;vpos;;v;;r;;d2,138;;b0,0;;m">
+</treenode>
+<treenode node="getUserType;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f2;101;3;104;;;;vpos;;v;;r;;d2,102;;b0,0;;m">
+</treenode>
+<treenode node="login;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f7;171;2;185;;;;vpos;;v;;r;;d1,172;;b0,5;;mUserObject;;p">
+</treenode>
+<treenode node="setGov;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f9;84;3;87;;;;vpos;;v;;r;;d2,85;;b1,0;;mG;;p">
+</treenode>
+<treenode node="setUserEmail;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f9;68;3;71;;;;vpos;;v;;r;;d2,69;;b1,0;;mEmail;;p">
+</treenode>
+<treenode node="setUserFname;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f9;56;3;59;;;;vpos;;v;;r;;d2,57;;b1,0;;mFName;;p">
+</treenode>
+<treenode node="setUserGender;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f9;80;3;83;;;;vpos;;v;;r;;d2,81;;b1,0;;mGender;;p">
+</treenode>
+<treenode node="setUserID;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f9;48;3;51;;;;vpos;;v;;r;;d2,49;;b1,0;;mID;;p">
+</treenode>
+<treenode node="setUserLname;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f9;60;3;63;;;;vpos;;v;;r;;d2,61;;b1,0;;mLName;;p">
+</treenode>
+<treenode node="setUserMobile;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f9;72;3;75;;;;vpos;;v;;r;;d2,73;;b1,0;;mMobile;;p">
+</treenode>
+<treenode node="setUserName;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f9;64;3;67;;;;vpos;;v;;r;;d2,65;;b1,0;;mUserName;;p">
+</treenode>
+<treenode node="setUserPassword;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f9;76;3;79;;;;vpos;;v;;r;;d2,77;;b1,0;;mPassword;;p">
+</treenode>
+<treenode node="setUserRate;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f9;92;3;95;;;;vpos;;v;;r;;d2,93;;b1,0;;mR;;p">
+</treenode>
+<treenode node="setUserRemoved;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f9;88;3;91;;;;vpos;;v;;r;;d2,89;;b1,0;;mR;;p">
+</treenode>
+<treenode node="setUserType;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f9;52;3;55;;;;vpos;;v;;r;;d2,53;;b1,0;;mType;;p">
+</treenode>
+<treenode node="signup;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\Controller\User.php;f7;152;1;168;;;;vpos;;v;;r;;d0,153;;b0,5;;mUserObject;;p">
+</treenode>
+</treenode>
+<treenode node="Get_Title;PHP:Function Name;C:\xampp\htdocs\dashboard\BP\View\include\function\function.php;f1;2;1;16;;;;vpos;;v;;r;;d22,2;;b0,0;;m">
+</treenode>
+</phptree>
+</codestructure>

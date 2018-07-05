@@ -1,0 +1,58 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#Login1
+{
+   background-color: #EEEEEE;
+   border-color:#878787;
+   border-width:1px;
+   border-style: solid;
+   color: #000000;
+   border-spacing: 4px;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   text-align: right;
+   width: 285px;
+   height: 179px;
+}
+.Login1_header
+{
+   background-color: #878787;
+   color: #FFFFFF;
+   text-align: center;
+}
+.Login1_input
+{
+   background-color: #FFFFFF;
+   border-color: #878787;
+   border-width: 1px;
+   border-style: solid;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   width: 100px;
+   height: 18px;
+}
+.Login1_button
+{
+   background-color: #FFFFFF;
+   border-color: #878787;
+   border-width: 1px;
+   border-style: solid;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   width: 70px;
+   height: 20px;
+}

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\xampp\htdocs\dashboard\BP\BP.clpprj">
+	<settings><PM_URL><![CDATA[P:/PHP Projects/]]></PM_URL><PM_HOME_URL><![CDATA[P:/PHP Projects/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";C:\xampp\htdocs\dashboard\BP\Business_park1;C:\xampp\htdocs\dashboard\BP\Business_park1\Homepage.php;C:\xampp\htdocs\dashboard\BP\Business_park1\createmenu.php;C:\xampp\htdocs\dashboard\BP\Business_park1\food.php;C:\xampp\htdocs\dashboard\BP\Business_park1\fooddetails.php;C:\xampp\htdocs\dashboard\BP\Business_park1\fooddetails1.php;C:\xampp\htdocs\dashboard\BP\Business_park1\include;C:\xampp\htdocs\dashboard\BP\Business_park1\include\Template;C:\xampp\htdocs\dashboard\BP\Business_park1\include\Template\footer.php;C:\xampp\htdocs\dashboard\BP\Business_park1\include\Template\header.php;C:\xampp\htdocs\dashboard\BP\Business_park1\include\Template\profileheader.php;C:\xampp\htdocs\dashboard\BP\Business_park1\include\function;C:\xampp\htdocs\dashboard\BP\Business_park1\include\function\function.php;C:\xampp\htdocs\dashboard\BP\Business_park1\include\languges;C:\xampp\htdocs\dashboard\BP\Business_park1\include\lips;C:\xampp\htdocs\dashboard\BP\Business_park1\layout;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\css;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\css\AdminLTE.min.css;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\css\ace-ie.min.css;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\css\ace-part2.min.css;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\css\ace-rtl.min.css;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\css\ace-skins.min.css;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\css\ace.min.css;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\css\bootstrap.css;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\css\bootstrap.min.css;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\css\colorbox.min.css;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\css\font-awesome.css;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\css\font-awesome.min.css;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\css\fonts.googleapis.com.css;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\css\front.css;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\css\images;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\css\jquery-ui.min.css;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\css\jquery.selectBoxIt.css;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\css\owl.carousel.css;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\fonts;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\images;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\images\avatars;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\ace-elements.min.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\ace-extra.min.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\ace.min.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\adminlte.min.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\bootstrap.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\bootstrap.min.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\demo.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\fastclick.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\front.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\html5shiv.min.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\img;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\jquery-3.2.1.min.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\jquery-ui.min.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\jquery.colorbox.min.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\jquery.min.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\jquery.mobile.custom.min.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\jquery.nicescroll.min.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\jquery.raty.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\jquery.raty.min.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\jquery.selectBoxIt.min.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\jquery.slimscroll.min.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\js\jquery.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\js\jquery.raty.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\js\jquery.raty.min.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\owl.carousel.js;C:\xampp\htdocs\dashboard\BP\Business_park1\layout\js\respond.min.js;C:\xampp\htdocs\dashboard\BP\Business_park1\login.php;C:\xampp\htdocs\dashboard\BP\Business_park1\login1.php;C:\xampp\htdocs\dashboard\BP\Business_park1\login2.php;C:\xampp\htdocs\dashboard\BP\Business_park1\profile.php;C:\xampp\htdocs\dashboard\BP\Business_park1\profile2.php;C:\xampp\htdocs\dashboard\BP\View\Signup.php;C:\xampp\htdocs\dashboard\BP\View\Test.php;C:\xampp\htdocs\dashboard\BP\View\test.php;C:\xampp\htdocs\dashboard\BP\View\test2.php;C:\xampp\htdocs\dashboard\BP\bp.sql;"/><added value=""/><lastopfiles>
+	</lastopfiles>
+	<todoblock>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\js\jquery.raty.min.js" crc="1287361078"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\js\jquery.raty.js" crc="1287361034"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\js\jquery.js" crc="1287232664"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\respond.min.js" crc="1474934240"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\owl.carousel.js" crc="1505069310"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\jquery.slimscroll.min.js" crc="1498977496"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\jquery.selectBoxIt.min.js" crc="1499874900"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\jquery.raty.min.js" crc="1503951342"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\jquery.raty.js" crc="1287361034"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\jquery.nicescroll.min.js" crc="1366318952"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\jquery.mobile.custom.min.js" crc="1474934240"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\jquery.min.js" crc="1337890704"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\jquery.colorbox.min.js" crc="1474934240"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\jquery-ui.min.js" crc="1499875178"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\jquery-3.2.1.min.js" crc="1492184150"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\html5shiv.min.js" crc="1474934240"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\front.js" crc="1505674427"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\fastclick.js" crc="1498977496"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\demo.js" crc="1498977496"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\bootstrap.min.js" crc="1434463970"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\bootstrap.js" crc="1434463970"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\adminlte.min.js" crc="1498977496"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\ace.min.js" crc="1474934240"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\ace-extra.min.js" crc="1474934240"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\js\ace-elements.min.js" crc="1474934240"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\css\owl.carousel.css" crc="1488332592"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\css\jquery.selectBoxIt.css" crc="1499883048"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\css\jquery-ui.min.css" crc="1499875178"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\css\front.css" crc="1505558362"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\css\fonts.googleapis.com.css" crc="1474934240"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\css\font-awesome.min.css" crc="1482414634"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\css\font-awesome.css" crc="1482414634"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\css\colorbox.min.css" crc="1503965262"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\css\bootstrap.min.css" crc="1434463970"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\css\bootstrap.css" crc="1434463970"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\css\AdminLTE.min.css" crc="1498977496"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\css\ace.min.css" crc="1474934240"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\css\ace-skins.min.css" crc="1474934240"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\css\ace-rtl.min.css" crc="1474934240"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\css\ace-part2.min.css" crc="1474934240"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\layout\css\ace-ie.min.css" crc="1474934240"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\include\Template\profileheader.php" crc="1505671528"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\include\Template\header.php" crc="1505601284"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\include\Template\footer.php" crc="1505171790"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\include\function\function.php" crc="1502404568"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\profile.php" crc="1505756954"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\Login.php" crc="1505425317"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\Homepage.php" crc="1505493928"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\foodedit.php" crc="1505744830"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\fooddetails.php" crc="1505745108"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\food.php" crc="1505602679"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\View\createmenu.php" crc="1505169750"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Model\SpecialOrderModel.php" crc="1505769830"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Model\SignupModel.php" crc="1505561526"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Model\QueryBuilder.php" crc="1505758481"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Model\OrderModel.php" crc="1505564713"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Model\Notification.php" crc="1505564727"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Model\LogoutModel.php" crc="1505044081"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Model\LoginModel.php" crc="1505561058"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Model\LoginAPI.php" crc="1505754409"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Model\EditProfileModel.php" crc="1505757057"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Model\EditProfileAPI.php" crc="1505757166"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Model\EditItemModel.php" crc="1505748890"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Model\DeleteItemModel.php" crc="1505485735"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Model\CreateMenuModel.php" crc="1505603303"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Model\ConfirmOrder.php" crc="1505564725"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Model\ChangePassModel.php" crc="1505423413"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Model\AddServiceAPI.php" crc="1505758848"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Controller\User.php" crc="1505754095"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Controller\SpecialOrderClass.php" crc="1503693552"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Controller\ServiceClass.php" crc="1503588751"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Controller\Review.php" crc="1504091213"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Controller\Rate.php" crc="1504091188"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Controller\QueryBuilder.php" crc="1505748890"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Controller\Provider.php" crc="1504091414"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Controller\OrderClass.php" crc="1505770021"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Controller\Notification.php" crc="1504091073"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Controller\Menu.php" crc="1504091008"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Controller\ItemClass.php" crc="1503751524"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Controller\DBConnection.php" crc="1503686292"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Controller\Client.php" crc="1504091244"/>
+		<file name="C:\xampp\htdocs\dashboard\BP\Controller\bp.sql" crc="1503597543"/>
+	</filescache>
+</project>
